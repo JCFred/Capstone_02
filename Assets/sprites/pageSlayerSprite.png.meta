@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 94a6afd9d4ffd461189e6d2fff82c993
+timeCreated: 1500490646
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pageSlayerSprite_0
+    21300002: pageSlayerSprite_1
+    21300004: pageSlayerSprite_2
+    21300006: pageSlayerSprite_3
+    21300008: pageSlayerSprite_4
+    21300010: pageSlayerSprite_5
+    21300012: pageSlayerSprite_6
+    21300014: pageSlayerSprite_7
+    21300016: pageSlayerSprite_8
+    21300018: pageSlayerSprite_9
+    21300020: pageSlayerSprite_10
+    21300022: pageSlayerSprite_11
+    21300024: pageSlayerSprite_12
+    21300026: pageSlayerSprite_13
+    21300028: pageSlayerSprite_14
+    21300030: pageSlayerSprite_15
+    21300032: wall_16
+    21300034: wall_17
+    21300036: wall_18
+    21300038: wall_19
+    21300040: wall_20
+    21300042: wall_21
+    21300044: wall_22
+    21300046: wall23
+    21300048: wall_24
+    21300050: wall_25
+    21300052: wall_26
+    21300054: wall_27
+    21300056: wall_28
+    21300058: wall_29
+    21300060: wall_30
+    21300062: wall_31
+    21300064: wall_32
+    21300066: wall_33
+    21300068: wall_34
+    21300070: wall_35
+    21300072: wall_36
+    21300074: pageSlayerSprite_16
+    21300076: pageSlayerSprite_17
+    21300078: pageSlayerSprite_18
+    21300080: pageSlayerSprite_19
+    21300082: pageSlayerSprite_20
+    21300084: pageSlayerSprite_21
+    21300086: pageSlayerSprite_22
+    21300088: pageSlayerSprite_23
+    21300090: pageSlayerSprite_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pageSlayerSprite_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 853
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 853
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 853
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 853
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 853
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 853
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 853
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 855
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 853
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 853
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.79, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 853
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 853
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.72, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_12
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 853
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 802
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.79, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 802
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 802
+        width: 35
+        height: 42
+      alignment: 9
+      pivot: {x: 0.72, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 700
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 699
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 699
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 699
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 699
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 736
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 700
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_23
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 700
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pageSlayerSprite_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 700
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

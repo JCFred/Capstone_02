@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: b9509d6fcb1eb4fa5b10388be8a049dc
+timeCreated: 1499456424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: examplePlayerSpriteSheet _0
+    21300002: examplePlayerSpriteSheet _1
+    21300004: examplePlayerSpriteSheet _2
+    21300006: examplePlayerSpriteSheet _3
+    21300008: examplePlayerSpriteSheet _4
+    21300010: examplePlayerSpriteSheet _5
+    21300012: examplePlayerSpriteSheet _6
+    21300014: examplePlayerSpriteSheet _7
+    21300016: examplePlayerSpriteSheet _8
+    21300018: examplePlayerSpriteSheet _9
+    21300020: examplePlayerSpriteSheet _10
+    21300022: examplePlayerSpriteSheet _11
+    21300024: examplePlayerSpriteSheet _12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 99
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50122637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.41470408, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 23
+        width: 16
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43282938, y: 0.35073227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: examplePlayerSpriteSheet _12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 23
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.56513494, y: 0.3668073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

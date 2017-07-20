@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 36fd8470d1ae641d9a46b9b5020c57eb
+timeCreated: 1500487898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doubleFloor_1
+    21300002: doubleFloor_2
+    21300004: doubleFloor_3
+    21300006: doubleFloor_4
+    21300008: cornerLeft_1
+    21300010: cornerLeft_2
+    21300012: cornerRight_2
+    21300014: cornerRight_1
+    21300016: 1by1
+    21300018: 2by1
+    21300020: halfBy1
+    21300022: twoThridsBy1
+    21300024: PageSlayerTiles (1)_12
+    21300026: PageSlayerTiles (1)_13
+    21300028: PageSlayerTiles (1)_14
+    21300030: PageSlayerTiles (1)_15
+    21300032: PageSlayerTiles (1)_16
+    21300034: PageSlayerTiles (1)_17
+    21300036: PageSlayerTiles (1)_18
+    21300038: PageSlayerTiles (1)_19
+    21300040: PageSlayerTiles (1)_20
+    21300042: PageSlayerTiles (1)_21
+    21300044: 2ThirdsBottom_1
+    21300046: PageSlayerTiles (1)_23
+    21300048: 2ThirdsBottom_2
+    21300050: 2Bottom_1
+    21300052: halfBottom_1
+    21300054: 1Bottom_1
+    21300056: halfBottom_3
+    21300058: halfBottom_5
+    21300060: PageSlayerTiles (1)_30
+    21300062: 2Bottom_2
+    21300064: halfBottom_2
+    21300066: 1Bottom_2
+    21300068: halfBottom_4
+    21300070: halfBottom_6
+    21300072: PageSlayerTiles (1)_0
+    21300074: PageSlayerTiles (1)_1
+    21300076: PageSlayerTiles (1)_2
+    21300078: PageSlayerTiles (1)_3
+    21300080: PageSlayerTiles (1)_4
+    21300082: PageSlayerTiles (1)_5
+    21300084: PageSlayerTiles (1)_6
+    21300086: PageSlayerTiles (1)_7
+    21300088: PageSlayerTiles (1)_8
+    21300090: PageSlayerTiles (1)_9
+    21300092: PageSlayerTiles (1)_10
+    21300094: PageSlayerTiles (1)_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doubleFloor_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doubleFloor_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doubleFloor_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 239
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doubleFloor_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cornerLeft_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cornerLeft_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 212
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cornerRight_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 214
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cornerRight_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1by1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2by1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBy1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 171
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: twoThridsBy1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 153
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 154
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 119
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 89
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2ThirdsBottom_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 72
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2ThirdsBottom_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 75
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Bottom_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1Bottom_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Bottom_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1Bottom_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halfBottom_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 86
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PageSlayerTiles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
